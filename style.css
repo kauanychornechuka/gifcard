@@ -3,10 +3,15 @@ margin: 0;
 padding: 0;
 }
 .cabecalho{
+    background-color: darkmagenta;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 25px;
+}
+h1{
+    color: palegoldenrod;
+    text-decoration: none;
 }
 body{
     display:flex;
